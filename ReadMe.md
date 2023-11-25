@@ -18,10 +18,21 @@ Run `python thread_v_process_test.py` to run the program.
 
 # Screenshots
 
-![ ](./images/4instances_1ms_resolution.png)
-![ ](./images/16instances_1ms_resolution.png)
-![ ](./images/32instances_1ms_resolution.png)
+![4instances_1ms_resolution](https://github.com/Daleth7/Python-Multithreading-vs-Multiprocessing/assets/4139842/0fd304bf-a501-4420-9d68-6d1364c6d025)
+![16instances_1ms_resolution](https://github.com/Daleth7/Python-Multithreading-vs-Multiprocessing/assets/4139842/5d85bacb-46cf-402d-8b18-52384c356a79)
+![32instances_1ms_resolution](https://github.com/Daleth7/Python-Multithreading-vs-Multiprocessing/assets/4139842/4c3bb4fa-5dbb-4732-bb6f-cc83f1ab7f3e)
 
-![ ](./videos/4inst_200u_res.mp4)
-![ ](./videos/8inst_1ms_res.mp4)
-![ ](./videos/16inst_1ms_res.mp4)
+
+
+
+https://github.com/Daleth7/Python-Multithreading-vs-Multiprocessing/assets/4139842/13cee349-27d1-403d-a9f7-0c9f7164269b
+
+
+
+
+https://github.com/Daleth7/Python-Multithreading-vs-Multiprocessing/assets/4139842/5c1684ea-9df9-4aae-b0a2-41df20e477d1
+
+
+
+https://github.com/Daleth7/Python-Multithreading-vs-Multiprocessing/assets/4139842/0c2e49ef-9cef-4d95-bcf6-71815cd4cedb
+
